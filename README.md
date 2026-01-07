@@ -126,8 +126,18 @@ Proje, aşağıdaki katmanlardan oluşmaktadır:
 
 ## 📸 Ekran Görüntüleri
 
-(Ekran görüntülerini buraya ekleyiniz)
-![alt text](?raw=true)
+### Giriş Ekranı (Login Form)
+![LOGIN FORM](https://github.com/Ragazzo26/NYPproje/blob/main/Pict/login.png.png?raw=true)
+### AnaSayfa (Main Menu)
+![MAIN MENU](https://github.com/Ragazzo26/NYPproje/blob/main/Pict/menu.png.png?raw=true)
+### Ürün Yönetimi (ProductForm)
+![PRODUCT FORM](https://github.com/Ragazzo26/NYPproje/blob/main/Pict/product.png.png?raw=true)
+### Müşteri Yönetimi (CustomerForm)
+![CUSTOMER FORM](https://github.com/Ragazzo26/NYPproje/blob/main/Pict/customer.png.png?raw=true)
+### Satış Ekranı (SalesForm)
+![SALES FORM](https://github.com/Ragazzo26/NYPproje/blob/main/Pict/sales.png.png?raw=true)
+### Raporlama Ekranı (ReportForm)
+![REPORT FORM](https://github.com/Ragazzo26/NYPproje/blob/main/Pict/report.png.png?raw=true)
 
 ---
 
@@ -151,12 +161,13 @@ Proje tanıtım videosu için:
 
 - Katmanlı mimariyi gerçek bir senaryo üzerinden uygulamak  
 - Temiz, sürdürülebilir ve okunabilir kod yazmak  
-- Gerçek hayatta kullanılabilecek bir stok ve satış sistemi geliştirmek  
+- Gerçek hayatta kullanılabilecek bir stok ve satış sistemi geliştirmek
+
 ---
 
 ## 📞 İletişim
 
 - **Ad**: Muhammad Gavin
-- **soyad**: Ragazzo
+- **Soyad**: Ragazzo
 - **Tel No**:+90 506 581 49 15
 - **E-posta**: gavin.ragazzo@gmail.com
