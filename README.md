@@ -127,6 +127,7 @@ Proje, aşağıdaki katmanlardan oluşmaktadır:
 ## 📸 Ekran Görüntüleri
 
 (Ekran görüntülerini buraya ekleyiniz)
+![alt text](?raw=true)
 
 ---
 
